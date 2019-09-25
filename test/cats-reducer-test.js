@@ -18,3 +18,8 @@ describe('cats reducer', () => {
     ).toEqual({loading: false, pictures: catPics})
   })
 })
+
+
+
+
+
